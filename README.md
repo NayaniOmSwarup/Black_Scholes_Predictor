@@ -130,3 +130,7 @@ pip install -r requirements.txt
 - Modular, extensible codebase for quantitative finance prototyping.
 - Visual, interactive analysis for option pricing sensitivities and risk.
 - Persistent storage for reproducible research and audit trails.
+
+## Call Price HeatMap
+
+<img width="658" height="582" alt="image" src="https://github.com/user-attachments/assets/9bd9aaf1-a713-4fd4-8292-2e839c3c6f26" />
